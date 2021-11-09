@@ -14,9 +14,9 @@
   "Levels": [
     {"name": "Beginner", "Lessons": 50},
     {"name": "Elementary", "Lessons": 50},
-    {"name": "Pre-Intermeidate", "Lessons": 50},
-    {"name": "Intermeidate", "Lessons": 50},
-    {"name": "Apper-Intermeidate", "Lessons": 50},
+    {"name": "Pre-Intermediate", "Lessons": 50},
+    {"name": "Intermediate", "Lessons": 50},
+    {"name": "Apper-Intermediate", "Lessons": 50},
     {"name": "Advanced", "Lessons": 50}
   ]
 }
