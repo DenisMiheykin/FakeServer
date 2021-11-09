@@ -12,11 +12,11 @@
     "name": "typicode"
   },
   "Levels": [
-    {"name": "Beginner", "Lessons": 50},
-    {"name": "Elementary", "Lessons": 50},
-    {"name": "Pre-Intermediate", "Lessons": 50},
-    {"name": "Intermediate", "Lessons": 50},
-    {"name": "Apper-Intermediate", "Lessons": 50},
-    {"name": "Advanced", "Lessons": 50}
+    {"id": "Beginner", "Lessons": 50},
+    {"id": "Elementary", "Lessons": 50},
+    {"id": "Pre-Intermediate", "Lessons": 50},
+    {"id": "Intermediate", "Lessons": 50},
+    {"id": "Apper-Intermediate", "Lessons": 50},
+    {"id": "Advanced", "Lessons": 50}
   ]
 }
