@@ -18,22 +18,22 @@
          {"id": "E1", "name": "Chapter1", "units": [
            {"id": "unit1", "name": "Words EN_RUS"},
            {"id": "unit2", "name": "Words RUS_EN"},
-           {"id": "unit3", "name": "Words Matching"}
+           {"id": "unit3", "name": "Words Matching"},
            {"id": "unit4", "name": "Theory"}
          ]
          },
          {"id": "E2", "name": "Chapter2", "units": [
            {"id": "unit1", "name": "Pazzle EN_RUS"},
            {"id": "unit2", "name": "Pazzle RUS_EN"},
-           {"id": "unit3", "name": "Listenig"}
+           {"id": "unit3", "name": "Listenig"},
            {"id": "unit4", "name": "Test"}
          ]
          },
          {"id": "E3", "name": "Chapter3", "units": [
            {"id": "unit1", "name": "Pazzle EN_RUS"},
            {"id": "unit2", "name": "Pazzle RUS_EN"},
-           {"id": "unit3", "name": "Listenig"}
-           {"id": "unit4", "name": "Test"}
+           {"id": "unit3", "name": "Listenig"},
+           {"id": "unit4", "name": "Test"},
            {"id": "unit4", "name": "Find mistake"}
          ]
          }
